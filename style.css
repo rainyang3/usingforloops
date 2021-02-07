@@ -1,0 +1,11 @@
+*{
+    background-color: cornsilk;
+}
+
+body{
+    margin-top: 20vh;
+    margin-left: 25vw;
+    margin-right: 15vw;
+    border: solid;
+    padding: 20px;
+}
